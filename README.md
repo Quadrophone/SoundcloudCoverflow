@@ -13,7 +13,7 @@ Soundcloud Coverflow
 * Swiping on mobile works pretty well but could be ready faster
 
 ###Planned improvements
-* Built your own set out of individual tracks
-* Multiple coverflow sets on the same site
+* Let users build sets out of individual tracks
+* Have multiple coverflows on the same site
 * Allow users to change the size of the covers
 * Add the option of a black reflection for dark-coloured themes
